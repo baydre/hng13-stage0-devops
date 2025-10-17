@@ -3,6 +3,6 @@
 **Name:** baydre afrika  
 **Slack:** @baydre  
 **Project:** NGINX public webserver for HNG13 Stage 0.  
-**Server:** http://YOUR_SERVER_IP/  <!-- add after deployment -->
+**Server:** http://13.61.26.108/  <!-- add after deployment -->
 
 Short description: This repo contains the index.html that will be served by NGINX for the HNG13 Stage 0 DevOps task.
